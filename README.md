@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @develoco
+- 👀 I’m interested in GNU Linux/UNIX development.
+- 🌱 I’m currently learning Rust.
+- 💞️ I’m looking to collaborate on building useful tools for power users and developers.
+- 📫 How to reach me? Just create a PR on this repo :)
